@@ -1,5 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+## author: xiwei yan
 
 # First, create the function makeCacheMatrix which store the matrix and its inverse in a list
 # Then, create the function CacheSolve which take the list computed above,
